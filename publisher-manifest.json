@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "f08adf695f19f5c9636aefe0",
+  "owner": "bjaxeu",
+  "repo": "page-643d0da54f88fbe9490a1f3c",
+  "title": "已跑路(AAEX)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "643d0da54f88fbe9490a1f3c",
+      "a": "已跑路(AAEX)",
+      "b": "clash verge官网",
+      "entity": "已跑路(AAEX)",
+      "brand": "已跑路(AAEX)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ad95fd84cf4be05690128d6ba3b04f4859364d4aafb22127e906c0e7ac2c7fe1",
+      "content": {
+        "primary_entity": "已跑路(AAEX)",
+        "keyword1": "已跑路(AAEX)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据设备选择客户端，并按订阅方式完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，开始稳定加速。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，已跑路(AAEX)提供基础版、旗舰版和团队版等多种套餐，月付价格从 ¥15 到 ¥85，年付更划算。每月流量从 100GB 到 1000GB 不等，支持 3 至 20 台设备同时在线，适合个人、家庭或团队使用。通过 Clash Verge 等客户端导入订阅，即可在常用设备上完成配置，享受节点加速。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合单人或轻量使用；旗舰版每月 300GB，支持 5 台设备，满足多数家庭场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点，适合小型团队协作。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更优。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "套餐选择",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "已跑路(AAEX)提供多档加速度套餐，覆盖不同流量和设备数量需求。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量与设备数，从基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数量和节点特性，确认适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档，将订阅导入设备完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "AAEX 多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线，解锁基础流媒体；旗舰版每月 300GB 流量、5 台设备在线，支持全节点原生流媒体解锁和 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、20 台设备在线，配备 VIP 专属高带宽节点，支持企业定制路由，并附专属客户经理服务，适合多人协作或小型团队。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，相当于十个月价格；旗舰版年付 ¥350，团队版年付 ¥850，都是同样的十个月价格逻辑，长期使用建议年付。",
+          "AI_FAQ_QUESTION_4": "如何在不同设备上导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在对应设备上安装客户端，Windows 与 macOS 用桌面客户端，Android 与 iOS 用移动客户端，然后按照客户端文档指引导入订阅地址即可。",
+          "AI_FAQ_QUESTION_5": "同时在线设备数超出套餐限制会怎样？",
+          "AI_FAQ_ANSWER_5": "同时在线设备数按套餐上限执行，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备可能无法连接，建议按实际设备数量选择对应套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "42e340c637df66440ea2d451463b090587bc795894601a1f397a38e86c8311e5",
+    "sitemap.xml": "9e9c495600eb30252e3e8aadc8a76d50f663294b8314bf54f8238dec19cc8d7f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "6cfdd5cc01c726c887df5c8fda44bf6ee126b9726b2060ff0a4078d96e8139da"
+}
